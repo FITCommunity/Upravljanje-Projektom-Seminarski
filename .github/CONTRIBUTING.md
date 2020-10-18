@@ -1,6 +1,10 @@
 # Contributing
 
-* Forkati orginalni repository na organizaciju (neko od administracije će obaviti ovo)
-* Preimenovati forkan repository: `Naziv_Predmeta-Seminarski-Naziv_Seminarskog-Broj_Seminarskog` (broj seminarskog dodati samo u slučaju više seminarskig radova sa istim nazivom)
-* Otvoriti issue `New Entry` i navesti sve informacije
+* U folderu za odgovarajuću akademsku godinu kreirati novi folder sa brojem indeksa i u njega dodati:
+    * Dokumentaciju u formatu `IBxxxxxx.pdf`
+    * Plan projekta izrađen u Microsoft Project-u u formatu `IBxxxxxx.mpp`
+    * Ocjenu isplativosti u formatu `IBxxxxxx.pdf`
+* U `README.md` u folderu akademske fodine dodati referencu na folder i link na github account studenta
+```
+* [Tema Seminarskog](./IBxxxxxx) - [Ime Prezime](https://github.com/Username)
  
